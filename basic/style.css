@@ -1,0 +1,16 @@
+/* this is a css selector on how to change its appearance*/
+/* */
+
+ .button1{
+    color: white; /* this is a css property(color), and the color white is the css value*/
+    /* background-color: black; */
+}
+.button2{
+    color: rgb(0, 0, 0);
+    /* background-color: rgb(255, 0, 0); */
+}
+
+button{
+    background-color: rgb(0, 0, 255);
+    color: rgb(255, 255, 255);
+}
